@@ -42,6 +42,9 @@
 		$sa_proxy_error = false;
 		$script = '';
 		if ( sa_ping_server( $sa_webservice, $sa_proxy_server, $sa_proxy_port, $sa_proxy_error, $sa_use_proxy ) === true ) {
+			if ( substr( strtolower( $sa_hostname ), 0, 4 ) == 'www.' ) {
+				$sa_hostname = substr( $sa_hostname, 4 );
+			}
 			$script = ltrim( sa_get_from_server( $sa_webservice, $sa_proxy_server, $sa_proxy_port, $sa_app, $sa_hostname, $sa_use_proxy, $sa_domain_not_found, $sa_proxy_error ));
 		}
 		if ( true === $sa_domain_not_found ) {
