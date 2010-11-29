@@ -17,7 +17,7 @@ While there are no shortage of site statistic plugins, Go Daddy Site Analytics g
 * Real-time statistics let you follow the results of your latest promotion, without having to wait until the end of the day.
 * Conversion tracking allows you to track the success of your online marketing efforts.
 * Site Summary information centralizes all of your most vital data so you can see results at a glance.
-* Data export lets you view, manipulate and catalog your statistics in Microsoft Excel®.
+* Data export lets you view, manipulate and catalog your statistics in Microsoft Excel&#174;.
 * Visit-path reporting shows you how customers are making their way through your site.
 * Custom date ranges let you focus on a specific time period so you can analyze and compare.
 
