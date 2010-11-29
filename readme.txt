@@ -25,16 +25,16 @@ If you currently own Go Daddy Site Analytics, download this plugin now for seaml
 
 == Installation ==
 
-   1. Download the Site Analytics plugin by clicking the download button on this page and saving the file 'site-analytics.zip'
-   2. Create a "site-analytics" subdirectory under your WordPress plugins folder, usually located at '/wordpress/wp-content/plugins/ '
-   3. Copy the files 'site-analytics.php', and 'sa-get-script.php' from the downloaded file 'site-analytics.zip' to this new directory. You may need to expand the downloaded zip file first.
-   4. Activate the plugin through the 'Plugin Management' page in the WordPress admin interface. If you already had the page open, you made need to refresh it to see the newly available Site Analytics plugin.
-   5. Display the detailed configuration page for the Site Analytics plugin.
+1. Download the Site Analytics plugin by clicking the download button on this page and saving the file 'site-analytics.zip'
+2. Create a "site-analytics" subdirectory under your WordPress plugins folder, usually located at '/wordpress/wp-content/plugins/ '
+3. Copy the files 'site-analytics.php', and 'sa-get-script.php' from the downloaded file 'site-analytics.zip' to this new directory. You may need to expand the downloaded zip file first.
+4. Activate the plugin through the 'Plugin Management' page in the WordPress admin interface. If you already had the page open, you may need to refresh it to see the newly available Site Analytics plugin.
+5. Display the detailed configuration page for the Site Analytics plugin.
 
-         a. For newer versions of WordPress, click the "Plugins" icon in the left panel of the main WordPress admin page to expand it. Click on "Site Analytics" item in the expanded box.
-         b. For older versions of WordPress, click the "Site Analytics" item in the menu bar near the top of the Plugin Management page.
+	1. For newer versions of WordPress, click the "Plugins" icon in the left panel of the main WordPress admin page to expand it. Click on "Site Analytics" item in the expanded box.
+	2. For older versions of WordPress, click the "Site Analytics" item in the menu bar near the top of the Plugin Management page.
 
-   6. Click the "Get Site Analytics Script" button to request the Site Analytics tracking script that will be embedded on the pages of your WordPress site.
-   7. Optionally, click the "Track admin pages" checkbox to enable visitor tracking on your WordPress site's admin pages.
-   8. Click on the "Save" button to save the script and prepare the plugin for use.
-   9. As visitors hit the various pages in your site, the statistics should now be logged to your Site Analytics account.
+6. Click the "Get Site Analytics Script" button to request the Site Analytics tracking script that will be embedded on the pages of your WordPress site.
+7. Optionally, click the "Track admin pages" checkbox to enable visitor tracking on your WordPress site's admin pages.
+8. Click on the "Save" button to save the script and prepare the plugin for use.
+9. As visitors hit the various pages in your site, the statistics should now be logged to your Site Analytics account.
