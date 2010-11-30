@@ -24,6 +24,7 @@ While there are no shortage of site statistic plugins, Go Daddy Site Analytics g
 If you currently own Go Daddy Site Analytics, download this plugin now for seamless integration with your blog. If you do not own Go Daddy Site Analytics, you can find out more about it at [GoDaddy.com](http://www.godaddy.com/hosting/website-analytics.aspx?isc=WPSA1).
 
 == Installation ==
+You must have a Site Analytics account with the same name as your blog, and real time must be enabled on that account.
 
 1. Download the Site Analytics plugin by clicking the download button on this page and saving the file 'site-analytics.zip'
 2. Create a "site-analytics" subdirectory under your WordPress plugins folder, usually located at '/wordpress/wp-content/plugins/ '
