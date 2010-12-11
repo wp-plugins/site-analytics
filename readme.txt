@@ -1,8 +1,8 @@
 === Site Analytics Plugin ===
 Contributors: GoDaddy
-Tags: statistics, stats
+Tags: statistics, stats, analytics
 Requires at least: 2.6
-Tested up to: 3.0.1
+Tested up to: 3.0.3
 Stable tag: 1.4
 License: GPL v2
 
