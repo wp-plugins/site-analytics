@@ -119,7 +119,7 @@ if ( !class_exists( 'filtersiteanalytics' )) {
 				      'var sa_admin='.((get_option( 'sa_admin' ) == '1' )?'true':'false').";\n".
 				      '</script>'."\n".$opt_script );
 			}
-			echo( '\n<!-- Site Analytics plugin v'.$version.' for Wordpress 2.6 - 3.0 (End) -->'."\n\n");
+			echo( "\n<!-- Site Analytics plugin v".$version." for Wordpress 2.6 - 3.0 (End) -->\n\n");
 		}
 	} // End class filtersiteanalytics
 }
