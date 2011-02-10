@@ -3,7 +3,7 @@
 Plugin Name: Site Analytics for WordPress
 Plugin URI: http://www.godaddy.com/hosting/website-analytics.aspx?isc=WPSA1
 Description: Add Site Analytics to your WordPress blog. This plugin will contact the Site Analytics servers and get your script. You need a <a href="http://www.godaddy.com/hosting/website-analytics.aspx?isc=WPSA1" title="Visit Site Analytics">Site Analytics</a> account to use it.
-Version: 1.4.1
+Version: 1.4.2
 Author: GoDaddy
 License: GPL 2
 */
