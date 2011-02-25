@@ -2,7 +2,7 @@
 Contributors: GoDaddy
 Tags: statistics, stats, analytics
 Requires at least: 2.6
-Tested up to: 3.0.5
+Tested up to: 3.1
 Stable tag: 1.4.2
 License: GPL v2
 
