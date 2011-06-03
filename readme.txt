@@ -2,8 +2,8 @@
 Contributors: GoDaddy
 Tags: statistics, stats, analytics
 Requires at least: 2.6
-Tested up to: 3.1
-Stable tag: 1.4.2
+Tested up to: 3.2
+Stable tag: 1.4.3
 License: GPL v2
 
 Go Daddy Site Analytics gives you the in-depth data you need to help attract new visitors, increase sales, discover costly errors and more.
